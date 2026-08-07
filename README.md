@@ -13,6 +13,6 @@ Here, some of the important features:
 -    S&P, RUN (CQ) and mixed SP/CQ operation are supported.
 -    The helper analyzes and stores all messages in the background, so stations with new multipliers can be called preferentially even if they are only transmitting RR73 or 73.
 -    Stations with more than 2 unsuccessful QSO attempts are blocked for a certain period of time.
-The FT-Contest-Helper was developed as macro extension using Quick-Macros (© Gintaras Didzgalvis).
-No license for Quick Macros is required to start the program.
-Easy to install as it is a "portable" software
+    The FT-Contest-Helper was developed as macro extension using Quick-Macros (© Gintaras Didzgalvis).
+-  No license for Quick Macros is required to start the program.
+-  Easy to install as it is a "portable" software
