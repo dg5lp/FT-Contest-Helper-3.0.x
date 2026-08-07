@@ -1,7 +1,7 @@
 # NEW!  FT-CONTEST-HELPER for FT4 and FT8
 
 The FT-Contest Helper program was developed to make working on contests easier.
-The Helper-handles time-critical tasks, ensuring smooth contest operation.
+The Helper handles time-critical tasks, ensuring smooth contest operation.
 It is seeking new multipliers to achieve the best competition results.
 Unlike the FT8 Helper, the FT-Contest-Helper cannot act as an “FT8 robot.” The operator must manually approve each QSO to ensure compliance with the requirements for legal use in contests. 
 Here, some of the important features:
